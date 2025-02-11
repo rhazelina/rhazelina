@@ -23,7 +23,7 @@ $ > nano cat tech_stack.txt
 🌐 Frontend:     React, Vite, TailwindCSS, 
 📦 Backend:      Node.js, Express, Elysia.js
 🛢️ Database:     MySQL, PostgreSQL, MongoDB
-⚙️ Tools:        Git, Docker, Linux ( Nix Os, Arch Linux) , VS Code / VS Codium
+⚙️ Tools:        Git, Docker, Linux ( Nix Os, Arch Linux ) , VS Code / VS Codium
  ```
 
 ## 📊 GitHub Stats
