@@ -44,6 +44,3 @@ $ > echo "Let's connect!"
 📧 Email:    periodecode@gmail.com
 
 ```
-
-```bash
-$ > exit
