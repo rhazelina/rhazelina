@@ -5,14 +5,8 @@
 
 ---
 
-## 💻 About Me
-```bash
-$ > neofetch
-------------------------------
-👤 Rhazelina@GitHub
-------------------------------
-🌱 Just, Wife
-```
+## ? About Me
+# Rhazelina Ayuna Putri
 
 ---
 
@@ -22,7 +16,7 @@ $ > nano cat tech_stack.txt
 ------------------------------
 🖥️ Languages:    Python, JavaScript, PHP, C++
 🌐 Frontend:     React, Vite, TailwindCSS
-📦 Backend:      Node.js, Express, Elysia.js
+📦 Backend:      Node.js, Express, Elysia.js, Laravel
 🛢️ Database:     MySQL, PostgreSQL, MongoDB
 ⚙️ Tools:        Git, Docker, Linux (NixOS, Arch Linux), VS Code / VS Codium
 ```
