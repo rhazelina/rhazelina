@@ -1,4 +1,4 @@
-> *"Code with wuv, depwoy with spawkwes?!?1 *:･ﾟ✧"*  
+> *"Code with luv, depwoy with heart *:･ﾟ✧"*  
 
 ---
 
