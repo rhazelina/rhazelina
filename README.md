@@ -1,13 +1,11 @@
 
 <div align="center">
   
-🎀⋅⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅⋅🎀  
+
 ╔══════════════════════╗  
 ║  **Rhazelina Ayuna Putri**  ║  
 ╚══════════════════════╝  
-🎀⋅⋅•⋅⊰∙∘☽༓☾∘∙⊱⋅•⋅⋅🎀  
-
-  <img src="https://tenor.com/view/yoimiya-4-k-genshin-impact-yoimiya-orange-gif-15163016221299720433" width="300" alt="Yoimiya GIF">
+----
 
 <pre>
 ┌───────────────────────────────────────────────────────┐
@@ -48,7 +46,7 @@ const aboutMe = {
 ╚════════════════════════════════════════════╝
 </div>
 
-### 💎 Frontend Collection
+###  Frontend 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
@@ -58,22 +56,20 @@ const aboutMe = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
 </p>
 
-### 🔮 Backend Arsenal
+###  Backend 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
 </p>
 
-### 🗃️ Database Closet
+### 🗃 Database Closet
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 </p>
 
-### 🔧 Developer Tools
+###  Devtools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
@@ -96,21 +92,6 @@ const aboutMe = {
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhazelina&layout=compact&theme=dark&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" />
 </p>
 
-<div align="center">
-╭─────────────────────────────────────────────╮
-│  🎭  Current Focus  🎭                      │
-╰─────────────────────────────────────────────╯
-</div>
-
-```json
-{
-  "learning": ["Three.js", "TypeScript", "Docker"],
-  "building": "Personal Portfolio & Fashion Tech App",
-  "reading": "Clean Architecture & Design Patterns",
-  "listening": "Lo-fi beats while coding",
-  "goal": "Contributing more to open source"
-}
-```
 
 <div align="center">
 ✦⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅✦  
@@ -123,6 +104,14 @@ const aboutMe = {
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-link)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-link)
 
+
+<div align="center">
+╔════════════════════════════════════════════╗
+║  MyProgress ↗️                             ║
+╚════════════════════════════════════════════╝
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhazelina&theme=material-palenight&hide_border=true&custom_title=Contribution%20Graph&area=true&bg_color=0d1117&color=ff6b9d&line=f8d7da&point=f8f8f2" width="100%"/>
 <pre>
 ╭───────────────────────────────────────╮
 │  "In a world full of code,            │
@@ -130,5 +119,3 @@ const aboutMe = {
 ╰───────────────────────────────────────╯
 </pre>
 </div>
-```
-
