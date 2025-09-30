@@ -95,13 +95,13 @@ const aboutMe = {
 <div align="center">
 ✦⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅✦  
 ╭───────────────────────────────────────╮  
-│  🌈  Connect With Me  🌈              │  
+│  👋  Connect With Me 👋             │  
 ╰───────────────────────────────────────╯  
 ✦⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅⋅✦  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-link)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](?)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](?)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rienarem/)
 
 
 <div align="center">
@@ -111,10 +111,5 @@ const aboutMe = {
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhazelina&theme=material-palenight&hide_border=true&custom_title=Contribution%20Graph&area=true&bg_color=0d1117&color=ff6b9d&line=f8d7da&point=f8f8f2" width="100%"/>
-<pre>
-╭───────────────────────────────────────╮
-│  "In a world full of code,            │
-│   be the elegant solution" ✨         │
-╰───────────────────────────────────────╯
-</pre>
+
 </div>
